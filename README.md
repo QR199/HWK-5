@@ -1,5 +1,7 @@
 # HWK-5
 
+Quinn Ridgeway
+
 This is my HWk-5 repository for the kaggle competition: "Histopathologic Cancer Detection"
 
 File structure:
