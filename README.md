@@ -36,5 +36,21 @@ No_cancer_present.png: An example of an image that does not contain cancerous ce
 
 Kaggle_score.png: A screenshot of my Kaggle submission score. 
 
+## Libraries and Data:
+
+This project used the libraries:
+
+-Pandas
+-Numpy
+-matplotlib
+-seaborn
+-scikit-learn
+-tensroflow
+-keras
+-os
+
+The data for this project was manually downloaded from the Kaggle competition: Histopathologic Cancer Detection. 
+It is not included in this repository because of its size, I also used a virtual environment native
+to python (venv) to train the model.
 
 
